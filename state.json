@@ -89,6 +89,51 @@
         },
         "request_id": "94ad7adb65804455b942415bbdab40c0"
       }
+    },
+    {
+      "id": "generator-install-002",
+      "at": "2026-06-11T18:42:40.102Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "247electrician",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-11T18:42:34.439Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/10234094719715991028/localPosts/2605872939787571908",
+            "post_url": "https://local.google.com/place?id=10053091739195315794&use=posts&lpsid=CIHM0ogKEJHW8tPejum6bA",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 185805,
+            "post_title": "Generator Installation",
+            "post_caption": "In South Florida, it's not if the power goes out — it's when, and for how long. A standby generator with an automatic transfer switch detects the outage and restores power in seconds: AC, refrigerator, medical equipment, internet, all of it. Even a portable generator becomes dramatically safer and more useful with a professionally installed inlet and manual transfer switch — no extension cords through windows, no dangerous back-feeding that can injure utility workers. 24/7 Electrician sizes the generator to your actual load, handles the transfer switch wiring and permits, and tests the full failover so you know it works before hurricane season does. Get ahead of the next storm — 247electrician.us.\r\n\r\n📞 (954) 602-0050 · FREE service call with any job — mention VOLT25\r\n\r\n#generatorinstallation #standbygenerator #hurricaneseason #homegenerator #transferswitch #floridaelectrician #poweroutage",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "393de6497a55484c8560ccd8e9d65310",
+            "request_id_logs": "393de6497a55484c8560ccd8e9d65310",
+            "job_id": "aa66a163857e493baa7be0f1d6abff2f",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-11T18:42:34.439Z"
+        },
+        "request_id": "393de6497a55484c8560ccd8e9d65310"
+      }
     }
   ]
 }
