@@ -1,3 +1,6 @@
+// ⚠️ assets/logo.jpg is now Dan's REAL logo — running this script would
+// overwrite it with the SVG recreation. Kept for reference only.
+//
 // One-off: renders the 24/7 Electrician logo (recreated as SVG) to
 // assets/logo.jpg — black "24⚡7 ELECTRICIAN" wordmark with a yellow
 // lightning bolt standing in for the slash.
