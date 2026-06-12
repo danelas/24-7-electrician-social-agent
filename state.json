@@ -179,6 +179,51 @@
         },
         "request_id": "92f8dae4bd594b3cb9bbc3c7ac3dc3f8"
       }
+    },
+    {
+      "id": "recessed-lighting-004",
+      "at": "2026-06-12T14:43:04.394Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "247electrician",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-12T14:42:58.776Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/10234094719715991028/localPosts/8729592606985220032",
+            "post_url": "https://local.google.com/place?id=10053091739195315794&use=posts&lpsid=CIHM0ogKEOeznbPjiMOi2wE",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 132401,
+            "post_title": "Recessed & LED Lighting",
+            "post_caption": "Nothing changes how a room feels faster than getting the lighting right. Recessed LED lighting adds clean, even illumination without eating ceiling space; dimmers turn one room into three moods; and under-cabinet and accent lighting put light exactly where you work. Done professionally, the layout is planned — fixture spacing matched to ceiling height, color temperature matched to the room's purpose, switching zoned so you control areas independently. And LED retrofits pay for themselves: replacing old can lights and halogens typically cuts that portion of your lighting energy use by 75% or more while eliminating bulb changes for a decade. 24/7 Electrician designs and installs lighting for kitchens, living areas, offices, and outdoor spaces. See more at 247electrician.us.\r\n\r\n📞 (954) 602-0050 · FREE service call with any job — mention VOLT25\r\n\r\n#recessedlighting #ledlighting #lightingdesign #homeimprovement #kitchenlighting #electriciannearme #interiorlighting",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "e3f9bf4f03aa4a52abc0f0463f25aad1",
+            "request_id_logs": "e3f9bf4f03aa4a52abc0f0463f25aad1",
+            "job_id": "ae59d0a5fc0d43f88f1cdf3304d71e3f",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-12T14:42:58.776Z"
+        },
+        "request_id": "e3f9bf4f03aa4a52abc0f0463f25aad1"
+      }
     }
   ]
 }
