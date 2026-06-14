@@ -539,6 +539,51 @@
         },
         "request_id": "1d708c3bbe6f4c6d857ff1c860474528"
       }
+    },
+    {
+      "id": "outdoor-lighting-012",
+      "at": "2026-06-14T23:11:00.314Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "247electrician",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-14T23:10:54.771Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/10234094719715991028/localPosts/2028366843210655526",
+            "post_url": "https://local.google.com/place?id=10053091739195315794&use=posts&lpsid=CIHM0ogKEJnNjvn8kLyulgE",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 158516,
+            "post_title": "Outdoor & Landscape Lighting",
+            "post_caption": "Outdoor lighting does three jobs at once. It's security — burglars consistently rank lighting among the top deterrents, and motion-activated floods remove the dark corners they rely on. It's safety — lit paths, steps, and driveways prevent the falls that happen in the dark. And it's the single best curb-appeal upgrade per dollar: uplighting on palms and architecture makes a home look stunning every night. Outdoor work has its own code rules — GFCI protection, in-use covers, wet-rated fixtures, proper burial depth for wiring — and that's where professional installation earns its keep, especially around pools and patios where water and electricity share space. 24/7 Electrician designs and installs landscape, security, and pool-area lighting built for Florida weather. See 247electrician.us.\r\n\r\n📞 (954) 602-0050 · FREE service call with any job — mention VOLT25\r\n\r\n#outdoorlighting #landscapelighting #securitylighting #curbappeal #floridahomes #electriciannearme #patiolighting",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "1f524b84c65f439896e6f8dbbea5714d",
+            "request_id_logs": "1f524b84c65f439896e6f8dbbea5714d",
+            "job_id": "25edff4e41244473938f7f7059bce067",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-14T23:10:54.771Z"
+        },
+        "request_id": "1f524b84c65f439896e6f8dbbea5714d"
+      }
     }
   ]
 }
