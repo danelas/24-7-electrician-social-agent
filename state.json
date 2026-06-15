@@ -629,6 +629,51 @@
         },
         "request_id": "58f4661f0cfa44a893a7defabf7e519e"
       }
+    },
+    {
+      "id": "storm-damage-014",
+      "at": "2026-06-15T19:07:54.696Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "247electrician",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-15T19:07:48.934Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/10234094719715991028/localPosts/2026289860210618883",
+            "post_url": "https://local.google.com/place?id=10053091739195315794&use=posts&lpsid=CIHM0ogKEOnj2oijl_iB0gE",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 207009,
+            "post_title": "Storm Damage & Power Restoration",
+            "post_caption": "Here's what most homeowners learn at the worst time: if a storm tears the weatherhead, mast, or meter can off your house, the utility company won't reconnect you until a licensed electrician repairs it — that part of the service is yours, not theirs. And after flooding, energizing soaked outlets, panels, or appliances without an inspection risks shock and fire just when you're trying to recover. 24/7 Electrician handles post-storm work fast: weatherhead and riser repairs, panel replacement after water intrusion, safety inspections before re-energizing, generator hookups while you wait for the grid, and written documentation your insurance adjuster will ask for. After the storm, call (954) 602-0050 — we'll get you back on safely.\r\n\r\n📞 (954) 602-0050 · FREE service call with any job — mention VOLT25\r\n\r\n#stormdamage #hurricanerecovery #weatherhead #powerrestoration #emergencyelectrician #floridastorms #247electrician",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "0fbe4a86fde246faa92eea3c1fd8f55d",
+            "request_id_logs": "0fbe4a86fde246faa92eea3c1fd8f55d",
+            "job_id": "95c1ec1302ba42edbee8142ab616b28b",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-15T19:07:48.934Z"
+        },
+        "request_id": "0fbe4a86fde246faa92eea3c1fd8f55d"
+      }
     }
   ]
 }
