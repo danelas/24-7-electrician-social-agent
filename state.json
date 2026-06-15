@@ -674,6 +674,51 @@
         },
         "request_id": "0fbe4a86fde246faa92eea3c1fd8f55d"
       }
+    },
+    {
+      "id": "panel-upgrade-015",
+      "at": "2026-06-15T23:22:42.849Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "247electrician",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-15T23:22:37.145Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/10234094719715991028/localPosts/3101267068294172801",
+            "post_url": "https://local.google.com/place?id=10053091739195315794&use=posts&lpsid=CIHM0ogKEKjC8r6ZgpqGBA",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 138790,
+            "post_title": "Electrical Panel Upgrades",
+            "post_caption": "If your home still runs on a 100-amp panel — or worse, an old fuse box — it was wired for a different era. Today's homes pull far more power: central AC, induction ranges, tankless water heaters, EV chargers, and a dozen always-on devices. An overloaded panel doesn't just trip breakers; aging panels (especially certain recalled brands) are a documented fire risk, and insurance companies increasingly flag them at renewal. A 200-amp panel upgrade gives you the capacity for modern living, clean room for future circuits, and a panel that passes inspection when you sell. 24/7 Electrician handles the whole job — load calculation, utility coordination, permits, and a tidy, labeled finished panel. Learn more at 247electrician.us.\r\n\r\n📞 (954) 602-0050 · FREE service call with any job — mention VOLT25\r\n\r\n#panelupgrade #electricalpanel #200ampservice #electriciannearme #homeelectrical #fortlauderdale #licensedelectrician",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "96f9d4d0b84d4cee88fc84c254098d05",
+            "request_id_logs": "96f9d4d0b84d4cee88fc84c254098d05",
+            "job_id": "057425ea58ba4ff2b24b7fc07c7acd53",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-15T23:22:37.145Z"
+        },
+        "request_id": "96f9d4d0b84d4cee88fc84c254098d05"
+      }
     }
   ]
 }
