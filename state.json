@@ -764,6 +764,51 @@
         },
         "request_id": "c66b944778d24190bf997d88f4a30ce9"
       }
+    },
+    {
+      "id": "generator-install-017",
+      "at": "2026-06-16T18:59:50.911Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "247electrician",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-16T18:59:45.208Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/10234094719715991028/localPosts/4140181000276947241",
+            "post_url": "https://local.google.com/place?id=10053091739195315794&use=posts&lpsid=CIHM0ogKELWQub7Gspju6wE",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 178631,
+            "post_title": "Generator Installation",
+            "post_caption": "In South Florida, it's not if the power goes out — it's when, and for how long. A standby generator with an automatic transfer switch detects the outage and restores power in seconds: AC, refrigerator, medical equipment, internet, all of it. Even a portable generator becomes dramatically safer and more useful with a professionally installed inlet and manual transfer switch — no extension cords through windows, no dangerous back-feeding that can injure utility workers. 24/7 Electrician sizes the generator to your actual load, handles the transfer switch wiring and permits, and tests the full failover so you know it works before hurricane season does. Get ahead of the next storm — 247electrician.us.\r\n\r\n📞 (954) 602-0050 · FREE service call with any job — mention VOLT25\r\n\r\n#generatorinstallation #standbygenerator #hurricaneseason #homegenerator #transferswitch #floridaelectrician #poweroutage",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "2325ae96344b4eb09dcfe0421fbab723",
+            "request_id_logs": "2325ae96344b4eb09dcfe0421fbab723",
+            "job_id": "563bbcf2c9904d57af57308cadf0afed",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-16T18:59:45.208Z"
+        },
+        "request_id": "2325ae96344b4eb09dcfe0421fbab723"
+      }
     }
   ]
 }
