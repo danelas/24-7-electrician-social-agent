@@ -1169,6 +1169,51 @@
         },
         "request_id": "e3d4e88b8bc64cc29129339fd290f6e5"
       }
+    },
+    {
+      "id": "breaker-tripping-026",
+      "at": "2026-06-19T18:21:03.776Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "247electrician",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-19T18:20:58.024Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/10234094719715991028/localPosts/9082626297053664529",
+            "post_url": "https://local.google.com/place?id=10053091739195315794&use=posts&lpsid=CIHM0ogKEOCA0JnK0pnhHA",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 126412,
+            "post_title": "Breaker Keeps Tripping?",
+            "post_caption": "A breaker that trips once in a while when you run the microwave and toaster together is overloaded. A breaker that trips repeatedly — or instantly snaps back off when you reset it — is protecting you from something: a short circuit, a ground fault, a failing appliance, or an overheating connection. The most dangerous response is the most common one: swapping in a bigger breaker, which removes the protection without fixing the problem and lets the wire itself overheat inside your walls. The right response is diagnosis — measuring the load, isolating the circuit, and finding the actual fault. 24/7 Electrician troubleshoots tripping breakers around the clock and fixes the cause, not the symptom. If your panel has a 'problem breaker' everyone in the house knows about, call (954) 602-0050.\r\n\r\n📞 (954) 602-0050 · FREE service call with any job — mention VOLT25\r\n\r\n#breakertripping #circuitbreaker #electricalproblems #emergencyelectrician #electricaltroubleshooting #electriciannearme #homesafety",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "97d019a3588f4a0a9cdf36429cf0f026",
+            "request_id_logs": "97d019a3588f4a0a9cdf36429cf0f026",
+            "job_id": "df95074ca110483bad9524fa6a5f5763",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-19T18:20:58.024Z"
+        },
+        "request_id": "97d019a3588f4a0a9cdf36429cf0f026"
+      }
     }
   ]
 }
