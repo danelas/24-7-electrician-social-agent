@@ -1124,6 +1124,51 @@
         },
         "request_id": "26b3a3ef162640b896592ddca180944e"
       }
+    },
+    {
+      "id": "smart-home-025",
+      "at": "2026-06-19T14:43:13.967Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "247electrician",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-19T14:43:08.113Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/10234094719715991028/localPosts/4474877536020330905",
+            "post_url": "https://local.google.com/place?id=10053091739195315794&use=posts&lpsid=CIHM0ogKEJDa8arI6qrHgQE",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 137717,
+            "post_title": "Smart Switches & Home Automation",
+            "post_caption": "Smart bulbs are a toy; smart switches are an upgrade. When the intelligence lives in the switch, the wall control always works, anyone can use it, and every bulb on the circuit becomes schedulable — lights that come on at sunset, fans on timers, a whole-house 'off' when you leave. The catch: many smart switches require a neutral wire that older switch boxes don't have, and stacking dimmers in multi-gang boxes has derating rules most DIYers have never heard of. We sort all of that, install switches that match your platform — Alexa, Google Home, Apple Home, Lutron — and wire video doorbells and cameras with proper power instead of batteries that die monthly. 24/7 Electrician makes smart homes that actually work — 247electrician.us.\r\n\r\n📞 (954) 602-0050 · FREE service call with any job — mention VOLT25\r\n\r\n#smarthome #smartswitch #homeautomation #smartlighting #videodoorbell #electriciannearme #modernhome",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "e3d4e88b8bc64cc29129339fd290f6e5",
+            "request_id_logs": "e3d4e88b8bc64cc29129339fd290f6e5",
+            "job_id": "d38d4bd54b454e7eb6a44c36c786b303",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-19T14:43:08.113Z"
+        },
+        "request_id": "e3d4e88b8bc64cc29129339fd290f6e5"
+      }
     }
   ]
 }
