@@ -1304,6 +1304,51 @@
         },
         "request_id": "623bc7d4f3c0408882b7a8381f038ff3"
       }
+    },
+    {
+      "id": "storm-damage-029",
+      "at": "2026-06-20T18:10:46.520Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "247electrician",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-20T18:10:41.144Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/10234094719715991028/localPosts/1275783539528259558",
+            "post_url": "https://local.google.com/place?id=10053091739195315794&use=posts&lpsid=CIHM0ogKEOTEs43vjcXO_AE",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 202163,
+            "post_title": "Storm Damage & Power Restoration",
+            "post_caption": "Here's what most homeowners learn at the worst time: if a storm tears the weatherhead, mast, or meter can off your house, the utility company won't reconnect you until a licensed electrician repairs it — that part of the service is yours, not theirs. And after flooding, energizing soaked outlets, panels, or appliances without an inspection risks shock and fire just when you're trying to recover. 24/7 Electrician handles post-storm work fast: weatherhead and riser repairs, panel replacement after water intrusion, safety inspections before re-energizing, generator hookups while you wait for the grid, and written documentation your insurance adjuster will ask for. After the storm, call (954) 602-0050 — we'll get you back on safely.\r\n\r\n📞 (954) 602-0050 · FREE service call with any job — mention VOLT25\r\n\r\n#stormdamage #hurricanerecovery #weatherhead #powerrestoration #emergencyelectrician #floridastorms #247electrician",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "11df39b4ced04a1b9eeef5eba5a9a0bc",
+            "request_id_logs": "11df39b4ced04a1b9eeef5eba5a9a0bc",
+            "job_id": "a62c0918b3124ac4acc7a07ec93db696",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-20T18:10:41.144Z"
+        },
+        "request_id": "11df39b4ced04a1b9eeef5eba5a9a0bc"
+      }
     }
   ]
 }
