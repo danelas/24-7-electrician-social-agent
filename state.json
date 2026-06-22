@@ -1574,6 +1574,51 @@
         },
         "request_id": "03f25f7ba4cb4ae98f838b07d20c3503"
       }
+    },
+    {
+      "id": "rewiring-035",
+      "at": "2026-06-22T18:56:16.286Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "247electrician",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-22T18:56:10.432Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/10234094719715991028/localPosts/4408164873527864027",
+            "post_url": "https://local.google.com/place?id=10053091739195315794&use=posts&lpsid=CIHM0ogKELuvu_OC4Ne2swE",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 139017,
+            "post_title": "Whole-Home Rewiring",
+            "post_caption": "If your home was built before the mid-1970s and never rewired, there's a real chance it has aluminum branch wiring, cloth-insulated conductors, or ungrounded two-prong circuits — all of which insurers and inspectors flag for good reason. Aluminum connections loosen and overheat over time; old insulation gets brittle and cracks; ungrounded outlets leave electronics and people unprotected. Warning signs: warm switch plates, flickering when appliances start, outlets that don't grip plugs, breakers that trip with no obvious cause. Rewiring doesn't have to mean tearing your house apart — we use fishing techniques and targeted openings to minimize drywall work. 24/7 Electrician evaluates honestly: sometimes you need full rewiring, sometimes targeted repairs and AlumiConn connectors solve it. Start with an inspection — 247electrician.us.\r\n\r\n📞 (954) 602-0050 · FREE service call with any job — mention VOLT25\r\n\r\n#rewiring #homerewiring #aluminumwiring #oldhouse #electricalsafety #licensedelectrician #homeinspection",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "fa5394f7bde64d0a8a46dd913f2cb47b",
+            "request_id_logs": "fa5394f7bde64d0a8a46dd913f2cb47b",
+            "job_id": "c0d4ef2a5c904ce9a0b44c03073697c5",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-22T18:56:10.432Z"
+        },
+        "request_id": "fa5394f7bde64d0a8a46dd913f2cb47b"
+      }
     }
   ]
 }
