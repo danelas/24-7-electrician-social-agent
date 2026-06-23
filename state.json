@@ -1664,6 +1664,51 @@
         },
         "request_id": "82bac48d9ca2418a83e2b231186dcfb4"
       }
+    },
+    {
+      "id": "sparking-outlet-037",
+      "at": "2026-06-23T14:41:50.866Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "247electrician",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-23T14:41:45.351Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/10234094719715991028/localPosts/3609493816069445051",
+            "post_url": "https://local.google.com/place?id=10053091739195315794&use=posts&lpsid=CIHM0ogKEJytw_TOnJaGFw",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 141588,
+            "post_title": "Burning Smell or Sparking Outlet?",
+            "post_caption": "A faint fish-like or burning-plastic smell near an outlet. A switch plate that's warm to the touch. A crackle or visible spark when you plug something in. These are the early symptoms of arcing — electricity jumping across a loose or corroded connection — and arcing is how a huge share of residential electrical fires start, often inside the wall where you can't see it. Here's what to do: stop using the outlet, flip its breaker off if you can identify it, and call a licensed electrician — not next week, today. 24/7 Electrician responds around the clock, locates the failing connection or device, and repairs it on the spot. We'd rather check a false alarm than meet you after the fire department does. (954) 602-0050, any hour.\r\n\r\n📞 (954) 602-0050 · FREE service call with any job — mention VOLT25\r\n\r\n#electricalfire #sparkingoutlet #burningsmell #emergencyelectrician #electricalsafety #24hourelectrician #fortlauderdale",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "b2ee5e07dfed46f29c02b55572c74965",
+            "request_id_logs": "b2ee5e07dfed46f29c02b55572c74965",
+            "job_id": "1dcdadd2340846b0a2ab74a7d887ebe6",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-23T14:41:45.351Z"
+        },
+        "request_id": "b2ee5e07dfed46f29c02b55572c74965"
+      }
     }
   ]
 }
