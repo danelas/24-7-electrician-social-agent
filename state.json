@@ -1709,6 +1709,51 @@
         },
         "request_id": "b2ee5e07dfed46f29c02b55572c74965"
       }
+    },
+    {
+      "id": "ceiling-fans-038",
+      "at": "2026-06-23T18:24:13.021Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "247electrician",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-23T18:24:07.138Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/10234094719715991028/localPosts/5159852270119654169",
+            "post_url": "https://local.google.com/place?id=10053091739195315794&use=posts&lpsid=CIHM0ogKEJie6KOphO_LqwE",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 138242,
+            "post_title": "Ceiling Fan Installation",
+            "post_caption": "A ceiling fan lets you raise the thermostat 3–4 degrees without feeling it — in a Florida summer, that's real money off the electric bill every month. But here's what most people don't know: a fan cannot hang from a standard light fixture box. It needs a fan-rated box anchored to the structure, because a wobbling 40-pound spinning object overhead is exactly as bad as it sounds. We install the proper support, balance the fan, and wire the controls the way you want them — separate light and fan switches, remotes, or smart controls that work with your phone. Damp-rated models for patios and lanais too. 24/7 Electrician installs and replaces ceiling fans across the area — 247electrician.us.\r\n\r\n📞 (954) 602-0050 · FREE service call with any job — mention VOLT25\r\n\r\n#ceilingfan #ceilingfaninstallation #energysavings #homeimprovement #floridaliving #electriciannearme #smarthome",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "09657648044e4f128f365c5676064012",
+            "request_id_logs": "09657648044e4f128f365c5676064012",
+            "job_id": "e7ec6899fbc247b29dd4b730b6e24bd4",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-23T18:24:07.138Z"
+        },
+        "request_id": "09657648044e4f128f365c5676064012"
+      }
     }
   ]
 }
