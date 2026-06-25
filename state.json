@@ -1934,6 +1934,51 @@
         },
         "request_id": "807c36bcb8884b56802c6a96be166556"
       }
+    },
+    {
+      "id": "electrical-inspection-043",
+      "at": "2026-06-25T14:41:53.086Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "247electrician",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-25T14:41:47.036Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/10234094719715991028/localPosts/5288637009139739984",
+            "post_url": "https://local.google.com/place?id=10053091739195315794&use=posts&lpsid=CIHM0ogKELze0umfiI-GggE",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 154038,
+            "post_title": "Electrical Safety Inspections",
+            "post_caption": "In Florida, electrical inspections aren't optional paperwork — insurance carriers routinely require a 4-point inspection on older homes, and panels from certain manufacturers (Federal Pacific, Zinsco, some Challenger models) can make a home hard to insure at all. A proper electrical inspection checks the panel and breakers, wiring type and condition, grounding and bonding, GFCI/AFCI protection, and the outlets and connections that age quietly until they fail loudly. For buyers, it's negotiating power and peace of mind; for sellers, fixing issues before listing beats discovering them under contract; for homeowners, it's how electrical fires get prevented instead of investigated. 24/7 Electrician performs thorough inspections with written findings and can make the repairs on the same visit. Schedule at 247electrician.us.\r\n\r\n📞 (954) 602-0050 · FREE service call with any job — mention VOLT25\r\n\r\n#electricalinspection #4pointinspection #homeinspection #homebuyer #homeinsurance #electricalsafety #licensedelectrician",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "008d582fa6db412cac60fd3710f40995",
+            "request_id_logs": "008d582fa6db412cac60fd3710f40995",
+            "job_id": "b11db49fae284932b9c5adb57b240f70",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-25T14:41:47.036Z"
+        },
+        "request_id": "008d582fa6db412cac60fd3710f40995"
+      }
     }
   ]
 }
