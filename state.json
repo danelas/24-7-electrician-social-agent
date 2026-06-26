@@ -2159,6 +2159,51 @@
         },
         "request_id": "87a10a906ae74b98998ed9f5591ab1fe"
       }
+    },
+    {
+      "id": "no-power-048",
+      "at": "2026-06-26T23:10:34.004Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "247electrician",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-26T23:10:28.258Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/10234094719715991028/localPosts/1867240513032294119",
+            "post_url": "https://local.google.com/place?id=10053091739195315794&use=posts&lpsid=CIHM0ogKENqAzd3p2cLO1AE",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 125148,
+            "post_title": "Lost Power? We're On Call 24/7",
+            "post_caption": "Power out in part of your home while the neighbors' lights are on? That's not the utility — that's your electrical system telling you something failed. It might be a tripped breaker, but when a breaker won't reset, when half the house is dead, or when lights dim and surge on their own, the cause can be a failing main breaker, a lost neutral, or a damaged service connection — problems that can destroy appliances and start fires if ignored. Don't keep flipping the breaker and hoping. 24/7 Electrician answers around the clock, traces the fault with proper diagnostic equipment, and makes the repair safely — day, night, weekend, or holiday. Save (954) 602-0050 before you need it.\r\n\r\n📞 (954) 602-0050 · FREE service call with any job — mention VOLT25\r\n\r\n#emergencyelectrician #powerout #24hourelectrician #electriciannearme #electricalrepair #fortlauderdale #247electrician",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "0b458ed8c056457e8619150a348cab7a",
+            "request_id_logs": "0b458ed8c056457e8619150a348cab7a",
+            "job_id": "e46786df06164df0975f98ddf4dc77ad",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-26T23:10:28.258Z"
+        },
+        "request_id": "0b458ed8c056457e8619150a348cab7a"
+      }
     }
   ]
 }
