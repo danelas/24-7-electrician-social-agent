@@ -2294,6 +2294,51 @@
         },
         "request_id": "90eeccda38b14435934936b9eea93b67"
       }
+    },
+    {
+      "id": "surge-protection-051",
+      "at": "2026-06-27T23:10:07.542Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "247electrician",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-27T23:10:01.941Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/10234094719715991028/localPosts/6154462739883724374",
+            "post_url": "https://local.google.com/place?id=10053091739195315794&use=posts&lpsid=CIHM0ogKEI_o4aWV86WcOA",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 131804,
+            "post_title": "Whole-Home Surge Protection",
+            "post_caption": "South Florida is the lightning capital of the United States, and those power strips under your desk are not surge protection — most are sacrificial, already degraded, and useless against a serious surge. A whole-home surge protective device installs at your electrical panel and clamps voltage spikes before they reach anything: the AC condenser, refrigerator, washer, TVs, computers, and all the hardwired electronics modern appliances hide inside. With variable-speed AC compressors and smart appliances costing thousands, a panel SPD is some of the cheapest insurance you can buy — and many insurance carriers agree. 24/7 Electrician installs Type 2 surge protection rated for Florida storm season, usually in under two hours. Protect everything at once — 247electrician.us.\r\n\r\n📞 (954) 602-0050 · FREE service call with any job — mention VOLT25\r\n\r\n#surgeprotection #wholehomesurge #lightningprotection #floridastorms #protectyourhome #electriciannearme #hurricaneseason",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "fb36c8e8fd8b4fbeb703e6d66b3d59e4",
+            "request_id_logs": "fb36c8e8fd8b4fbeb703e6d66b3d59e4",
+            "job_id": "3832733e9dfa4924bb64c4d94550feb6",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-27T23:10:01.941Z"
+        },
+        "request_id": "fb36c8e8fd8b4fbeb703e6d66b3d59e4"
+      }
     }
   ]
 }
