@@ -2429,6 +2429,51 @@
         },
         "request_id": "9058e4ac31ef4116a6b9b18766009703"
       }
+    },
+    {
+      "id": "commercial-electrical-054",
+      "at": "2026-06-28T23:10:22.823Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "247electrician",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-28T23:10:17.225Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/10234094719715991028/localPosts/490980391456531191",
+            "post_url": "https://local.google.com/place?id=10053091739195315794&use=posts&lpsid=CIHM0ogKEPCkx6fQ0bqqBQ",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 171626,
+            "post_title": "Commercial Electrical Services",
+            "post_caption": "Commercial electrical work is a different discipline: three-phase service, demand load calculations, dedicated equipment circuits, emergency lighting, and inspectors who check all of it. Whether you're building out a new suite, adding circuits for kitchen equipment, upgrading a panel that's out of capacity, or retrofitting the whole space to LED, the job has to be done to code and around your business hours — downtime is money. 24/7 Electrician works with business owners, property managers, and general contractors on build-outs, tenant improvements, lighting retrofits, sign circuits, EV charging for customer parking, and ongoing service work. Licensed, insured, and used to working nights and weekends so your doors open on time. Commercial quotes at 247electrician.us.\r\n\r\n📞 (954) 602-0050 · FREE service call with any job — mention VOLT25\r\n\r\n#commercialelectrician #commercialelectrical #tenantbuildout #ledretrofit #businessowner #propertymanagement #fortlauderdalebusiness",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "0157a820261348d09fffc8a7ecd98d94",
+            "request_id_logs": "0157a820261348d09fffc8a7ecd98d94",
+            "job_id": "3a26a5c6aa0a44188d11d5c052c6a3ff",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-28T23:10:17.225Z"
+        },
+        "request_id": "0157a820261348d09fffc8a7ecd98d94"
+      }
     }
   ]
 }
