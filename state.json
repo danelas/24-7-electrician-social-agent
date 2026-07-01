@@ -2744,6 +2744,51 @@
         },
         "request_id": "4f7665326aca466f939abb5e2bf8645a"
       }
+    },
+    {
+      "id": "ev-charger-061",
+      "at": "2026-07-01T14:40:32.718Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "247electrician",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-07-01T14:40:26.894Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/10234094719715991028/localPosts/1006302980120698655",
+            "post_url": "https://local.google.com/place?id=10053091739195315794&use=posts&lpsid=CIHM0ogKEOq5w6Sxyv6GmAE",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 141257,
+            "post_title": "EV Charger Installation",
+            "post_caption": "Bought an EV and still charging off a regular outlet? A standard 120V plug adds roughly 3–5 miles of range per hour — fine for a plug-in hybrid, painful for a full EV. A professionally installed Level 2 charger on a dedicated 240V circuit charges 6–10x faster, so you start every morning full. But it's not just mounting a box: your electrician needs to verify panel capacity, run properly sized wire, install the right breaker, and pull the permit — undersized DIY installs are a leading cause of EV charging failures and melted receptacles. 24/7 Electrician installs and services all major chargers — Tesla Wall Connector, ChargePoint, Emporia, and any J1772 unit — for homes and businesses alike. Visit 247electrician.us.\r\n\r\n📞 (954) 602-0050 · FREE service call with any job — mention VOLT25\r\n\r\n#evcharger #evcharging #teslacharger #level2charger #electricvehicle #electriciannearme #fortlauderdale",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "e3af282d78484944af18dcb58eeb2c77",
+            "request_id_logs": "e3af282d78484944af18dcb58eeb2c77",
+            "job_id": "54dad865a4cf43eb94a0f7f29a396321",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-07-01T14:40:26.894Z"
+        },
+        "request_id": "e3af282d78484944af18dcb58eeb2c77"
+      }
     }
   ]
 }
